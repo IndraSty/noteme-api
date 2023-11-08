@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `users` ADD COLUMN `gender` VARCHAR(100) NULL,
+    ADD COLUMN `imgUrl` VARCHAR(200) NULL;
